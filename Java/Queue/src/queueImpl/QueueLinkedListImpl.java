@@ -1,4 +1,4 @@
-package package_01;
+package queueImpl;
 
 //Java program for linked-list implementation of queue
 //code origin -> https://www.geeksforgeeks.org/queue-linked-list-implementation/

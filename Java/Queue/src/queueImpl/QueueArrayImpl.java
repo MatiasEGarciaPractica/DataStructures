@@ -1,4 +1,4 @@
-package package_01;
+package queueImpl;
 
 //the code origin -> https://www.geeksforgeeks.org/introduction-to-queue-data-structure-and-algorithm-tutorials/
 //Java program for array implementation of queue
